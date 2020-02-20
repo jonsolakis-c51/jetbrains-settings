@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f327ddd1-3a00-4515-bd3f-3e0e611aad3c" name="Dev" url="http://10.7.30.65">
+        <fileTransfer host="10.7.30.65" port="22" rootFolder="/home/jon.solakis" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="04800999-1412-4c79-8d08-676c5d2418e2" name="VM" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="W:\home\jon\mercatus" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

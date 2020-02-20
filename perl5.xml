@@ -1,0 +1,31 @@
+<application>
+  <component name="Perl5ApplicationSettings">
+    <option name="pluginVersion" value="2019.3" />
+    <option name="popupShown" value="true" />
+  </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Local, System: Perl 5.30.0" />
+      <type value="Perl5 Interpreter" />
+      <version value="5.30.0 for MSWin32-x64-multi-thread" />
+      <homePath value="C:/Strawberry/perl/bin/perl.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Strawberry/perl/site/lib" type="simple" />
+            <root url="file://C:/Strawberry/perl/vendor/lib" type="simple" />
+            <root url="file://C:/Strawberry/perl/lib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="system" />
+      </additional>
+    </perl>
+  </component>
+</application>

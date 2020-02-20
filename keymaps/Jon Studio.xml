@@ -1,0 +1,12 @@
+<keymap version="1" name="Jon Studio" parent="Visual Studio">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+</keymap>
