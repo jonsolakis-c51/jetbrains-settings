@@ -4,7 +4,6 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="rpm" type="PLAIN_TEXT" />
       <mapping pattern="2809.odb.up.update_t_attribute_settings_service_fee_group_name_label.API-4142.sql" type="SQL" />
-      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>
