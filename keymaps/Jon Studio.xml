@@ -13,6 +13,12 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
