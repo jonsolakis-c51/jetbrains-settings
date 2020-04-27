@@ -2,15 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="f327ddd1-3a00-4515-bd3f-3e0e611aad3c" name="Dev" url="http://10.7.30.65">
-        <fileTransfer host="10.7.30.65" port="22" rootFolder="/home/jon.solakis" accessType="SFTP" authAgent="true">
+        <fileTransfer rootFolder="/home/jon.solakis" accessType="SFTP" host="10.7.30.65" port="22" sshConfigId="bdb34813-a9c8-46ee-9093-9a4c777a9a63" sshConfig="Dev" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="04800999-1412-4c79-8d08-676c5d2418e2" name="VM" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="W:\home\jon\mercatus" accessType="MOUNT" />
+      <webServer id="04800999-1412-4c79-8d08-676c5d2418e2" name="WSL" url="http://localhost">
+        <fileTransfer mountedRoot="W:\home\jon\mercatus" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>
