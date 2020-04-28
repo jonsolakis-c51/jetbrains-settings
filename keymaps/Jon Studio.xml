@@ -2,6 +2,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseBlock" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="ctrl alt divide" />
@@ -36,9 +37,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt x" />
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="RecentChangedFiles" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="shift alt period" />
-    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
 </keymap>
