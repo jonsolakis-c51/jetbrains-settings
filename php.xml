@@ -1,15 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="9b340a96-a9ec-4c4a-83f0-bf744e0c43d9" name="WSL" home="wsl://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="UBUNTU" />
-      </interpreter>
-      <interpreter id="c741810f-6b41-40b8-92a5-6d97c4f9b560" name="PHP 7.3" home="C:\tools\php73\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="5ab85b29-59ba-41fb-8794-ecb750628cc4" name="Remote PHP 7.2" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/jon.solakis/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="7e7c4997-cb05-4387-a3cd-a885e6956386" SSH_CONFIG_NAME="Dev" SSH_CREDENTIALS_ID="sshConfig://Dev" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="WSL">
@@ -198,11 +187,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="5ab85b29-59ba-41fb-8794-ecb750628cc4" bootstrap_file_path="/home/jon.solakis/api/test/unit/bootstrap.php" custom_loader_path="/home/jon.solakis/feedhopper/vendor/autoload.php" phpunit_phar_path="/usr/bin/phpunit" />
-      <phpunit_by_interpreter interpreter_id="9b340a96-a9ec-4c4a-83f0-bf744e0c43d9" load_method="PHPUNIT_PHAR" bootstrap_file_path="/mnt/c/Users/jon.solakis/mercatus/platform/api/test/unit/cron-bootstrap.php" configuration_file_path="C:\Users\jon.solakis\mercatus\platform\feedhopper\phpunit.xml" custom_loader_path="" phpunit_phar_path="/mnt/c/Users/jon.solakis/mercatus/platform/feedhopper/vendor/bin/phpunit" use_configuration_file="true" />
-    </phpunit_settings>
   </component>
 </application>
