@@ -1,0 +1,95 @@
+<keymap version="1" name="Jon Studio (mac OS)" parent="Visual Studio">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl meta enter" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+</keymap>
