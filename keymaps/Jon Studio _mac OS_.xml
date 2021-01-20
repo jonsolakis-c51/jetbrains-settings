@@ -21,6 +21,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodeCleanup" />
   <action id="CollapseBlock" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
@@ -46,6 +47,7 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
+  <action id="EditorToggleUseSoftWraps" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
@@ -65,6 +67,7 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -82,6 +85,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
@@ -97,6 +104,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="SilentCodeCleanup" />
+  <action id="SurroundWithLiveTemplate" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Unscramble" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
