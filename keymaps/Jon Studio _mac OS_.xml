@@ -45,6 +45,12 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="EditorToggleUseSoftWraps" />
