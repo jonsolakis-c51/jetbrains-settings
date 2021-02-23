@@ -51,6 +51,12 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="EditorToggleUseSoftWraps" />
@@ -74,6 +80,12 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="meta right" />
