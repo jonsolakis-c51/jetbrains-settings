@@ -1,0 +1,12 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="layout" value="TREE" />
+    <option name="categories">
+      <map>
+        <entry id="DATABASE" categories="Comments" />
+        <entry id="DIFF" categories="Details" />
+        <entry id="QUERY_PLAN" categories="Attributes" />
+      </map>
+    </option>
+  </component>
+</application>
