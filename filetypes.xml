@@ -7,6 +7,7 @@
       <mapping pattern=".staging-branch" type="PLAIN_TEXT" />
       <mapping pattern=".approve.php.swo" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="svgz" type="PLAIN_TEXT" />
       <mapping pattern="prevent-staging-commits" type="Shell Script" />
       <mapping pattern="prevent-merge-staging" type="Shell Script" />
       <removed_mapping pattern=".env" approved="true" type="JSHint" />
