@@ -1,4 +1,7 @@
 <keymap version="1" name="Jon Studio" parent="Visual Studio">
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -13,7 +16,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="EditorToggleCase" />
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
@@ -33,10 +36,6 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
-  <action id="PublishGroup.UploadTo">
-    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
-  </action>
   <action id="RecentChangedFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -46,6 +45,10 @@
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
   </action>
+  <action id="Run" />
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+  <action id="SearchEverywhere" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
@@ -56,4 +59,5 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="runShellFileAction" />
 </keymap>
