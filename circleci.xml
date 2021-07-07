@@ -1,7 +1,7 @@
 <application>
   <component name="CircleCI.Settings">
     <option name="serverUrl" value="https://circleci.com" />
-    <option name="token" value="1688c2e28f6271854b288de5919f56b9b7d40a56" />
+    <option name="token" value="" />
     <option name="defaultProvider" value="Github" />
     <option name="defaultOrganization" value="checkout51" />
   </component>
