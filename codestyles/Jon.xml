@@ -15,9 +15,9 @@
   <SqlCodeStyleSettings version="5">
     <option name="KEYWORD_CASE" value="2" />
   </SqlCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
+  <yaml>
+    <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
+  </yaml>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
