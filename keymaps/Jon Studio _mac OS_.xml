@@ -54,6 +54,9 @@
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -104,7 +107,6 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="PublishGroup.UploadTo">
