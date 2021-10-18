@@ -11,6 +11,11 @@
       <mapping ext="svgz" type="PLAIN_TEXT" />
       <mapping pattern="prevent-staging-commits" type="Shell Script" />
       <mapping pattern="prevent-merge-staging" type="Shell Script" />
+      <mapping ext="networkbranding" type="XML" />
+      <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping ext="networkbranding" approved="true" type="JSON" />
+      <removed_mapping ext="permissionset" approved="true" type="XML" />
+      <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping pattern=".env" approved="true" type="JSHint" />
       <removed_mapping pattern="pre-receive" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
