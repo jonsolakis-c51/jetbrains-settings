@@ -42,4 +42,5 @@
   </inspection_tool>
   <inspection_tool class="PhpMissingParamTypeInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpMissingReturnTypeInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpStanGlobal" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
 </profile>
