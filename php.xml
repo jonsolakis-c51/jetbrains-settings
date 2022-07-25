@@ -1,3 +1,3 @@
 <application>
-  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
+  <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" xdebug_resolve_breakpoints="false" />
 </application>
