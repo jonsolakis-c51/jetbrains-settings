@@ -1,16 +1,11 @@
 <scheme name="deligoez-light" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-02-10T18:38:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-09-22T13:10:55</property>
+    <property name="modified">2022-09-23T14:04:27</property>
     <property name="originalScheme">deligoez-light</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="MonoLisa" />
-  <option name="CONSOLE_FONT_SIZE" value="17" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.7" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
