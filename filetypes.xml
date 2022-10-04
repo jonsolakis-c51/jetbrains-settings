@@ -3,8 +3,6 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="test_competitive_file" type="AUTO_DETECTED" />
-      <mapping pattern="typescript" type="AUTO_DETECTED" />
       <mapping pattern="phantomjs" type="AUTO_DETECTED" />
       <mapping pattern=".getNotifDetail.php.swp" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
@@ -23,7 +21,6 @@
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="JSHint" />
       <removed_mapping pattern="pre-receive" approved="true" type="PLAIN_TEXT" />
       <mapping ext="main.kts" type="Kotlin" />
