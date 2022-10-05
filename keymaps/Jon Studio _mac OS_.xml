@@ -77,6 +77,14 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -84,6 +92,10 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="meta down" />
@@ -94,6 +106,10 @@
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="EditorToggleUseSoftWraps" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
