@@ -6,7 +6,6 @@
       <mapping pattern="phantomjs" type="AUTO_DETECTED" />
       <mapping pattern=".getNotifDetail.php.swp" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".staging-branch" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".approve.php.swo" type="PLAIN_TEXT" />
