@@ -3,7 +3,7 @@
     <property name="created">2022-02-10T18:38:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-10-04T13:09:52</property>
+    <property name="modified">2022-11-28T16:34:02</property>
     <property name="originalScheme">deligoez-light</property>
   </metaInfo>
   <colors>
@@ -12762,7 +12762,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="c6b22d" />
+        <option name="ERROR_STRIPE_COLOR" value="f1da2a" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
