@@ -40,6 +40,9 @@
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
